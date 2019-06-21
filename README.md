@@ -3,9 +3,9 @@
 ## Visualize Global Sites Status
   Edit data.json file to add your own data.
   
-  Green is Healthy
-  Yellow is Warning
-  Red is an Alert
+  - Green is Healthy
+  - Yellow is Warning
+  - Red is an Alert
 
 [Example](http://shrej.github.io/globe)
 
